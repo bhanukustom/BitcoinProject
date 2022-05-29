@@ -1,0 +1,6 @@
+apscheduler
+python-dotenv
+Django>=3.0,<4.0
+djangorestframework
+django-cors-headers==3.2.1
+requests
